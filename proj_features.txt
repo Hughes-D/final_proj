@@ -1,0 +1,20 @@
+My project is going to be a website called "Conservation Connectors" that connects people who are interested in conservation and utilizing our
+natural resources responsibly.I chose to do this by allowing users to create new events to meet and do community service acts like park clean 
+ups and workshops where people can learn animal husbandry, responsible and sustainable farming and fishing practices, etc. The options that 
+can be included in this list are endless!
+
+Features:
+A log/reg page with validations
+An events page that shows all the upcoming events
+An add events page that allows users to create their own events in addition to the Conservation Connectors sponsored events
+A page where users can view their own events and edit or delete them
+A blog where posts can be made to discuss new conservation events and share pictures and stories from past events.
+Users can edit their own comments on the blog page
+
+Nice-to-have:
+Admins are only users who can post to blog 
+All users can comment on a blog
+An API that can display a map and directions of where events will take place
+
+
+
